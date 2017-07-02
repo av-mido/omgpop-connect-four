@@ -1,4 +1,4 @@
-* Omgpop Connect Four Bot
+# Omgpop Connect Four Bot
 
 Bot to win Connect Four games on omgpop.com, back when it existed.
 
